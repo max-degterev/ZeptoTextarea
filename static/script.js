@@ -1,0 +1,1 @@
+$('.mod-textarea-autogrow').textareaAutoGrow();
